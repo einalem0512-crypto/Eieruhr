@@ -5,3 +5,5 @@ Salat
 Kartoffeln 
 Eier
 Honig 
+Zwiebeln
+Knoblauch
